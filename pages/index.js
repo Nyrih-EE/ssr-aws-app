@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          My Next.js Amplify app 2
+          My Next.js Amplify app 
         </h1>
       </main>
     </div>
